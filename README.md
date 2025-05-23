@@ -16,3 +16,4 @@ Output
 _© 2022 XYZ, Inc._
 > Nota: questo aggiornamento serve a forzare una differenza tra i branch.
 > Questa è una modifica di test per completare l'esercizio.
+> Ultima modifica per invio pull request valida.

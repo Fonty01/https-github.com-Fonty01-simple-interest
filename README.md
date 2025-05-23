@@ -14,3 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+> Nota: questo aggiornamento serve a forzare una differenza tra i branch.
